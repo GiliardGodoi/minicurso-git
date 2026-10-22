@@ -1,2 +1,1 @@
 
-Arquivo de exemplo.
